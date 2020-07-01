@@ -1,5 +1,5 @@
 # Scripts to convert CSV to Shapefile in Python
-Using ACLED for test data, I use the pyshp module to read in a csv to convert it into a shapefile format. 
+Using ACLED for test data, I use the pyshp module to read in a csv to shapefile format. 
 
 ## Improvements
 Improvements need to be made in order to make point attributes dynamic so that the script will be compatible across other csv files. 
