@@ -1,6 +1,5 @@
 import geopandas as gpd
 
-
 gdf = gpd.read_file('shapefiles/output.shp')
 print(gdf.head(20))
 
