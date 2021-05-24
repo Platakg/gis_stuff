@@ -4,7 +4,7 @@ My space for keeping notes for handling spatial data.
 ## Plotly Practice 
 Plot UNESCO world heritage sites from Kaggle Dataset over a basemap served from ESRI.
 ## Script to convert CSV to Shapefile in Python
-Using ACLED for test data, I use the pyshp module to read in a csv to shapefile format. <br>
+Use the pyshp module to read in a csv to shapefile format using ACLED data. <br>
 
 Core script: acled_proj/convert2shp.py
 
